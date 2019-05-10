@@ -1,0 +1,255 @@
+body,div,h1,h2,h3,h4,h5,h6,ul,ol,li,form,fieldset,p{margin:0; padding:0;}
+img,fieldset{border:none;}
+body{font:13px/18px "Tahoma", Arial, Helvetica, sans-serif; background:#722622 url(/images/frontend_images/body_bg.gif) repeat-x 0 0;}
+.clear{clear:both;}
+*{margin:0; padding:0}
+
+
+
+#layout{width:924px; margin:0 auto; margin-top:30px}
+#layout .layout_inner{float:left;width:916px; background:#eac366 url(/images/frontend_images/layout_bg.gif) repeat-x 0 0; border:3px solid #d49f4f; border-bottom:none}
+
+#body_container{float:left; width:892px; padding:12px 12px 0 12px}
+
+#header{float:left; width:892px; height:336px; background:url(/images/frontend_images/header_bg.gif) no-repeat 0 0}
+#header.inner{background:url(/images/frontend_images/header_bg_1.gif) no-repeat 0 0}
+.logo{float:left; width:285px}
+.logo img{float:left; width:auto; padding:0 0 0 44px}
+#header p{float:left; width:597px; font:15px/17px "Adobe Garamond Pro", Arial, Helvetica, sans-serif; color:#534635; padding:5px 0 0 0; text-align:right}
+#header p span{color:#a40000}
+
+
+#menu{float:left; width:600px; margin:8px 0 0 0}
+#menu ul{float:right; width:600px; list-style:none; margin:0; padding:12px 0 0 0}
+#menu li{
+	float:left;
+	width:auto;
+	height:30px;
+	font:bold 16px/20px Arial, Helvetica, sans-serif;
+	color:#fff;
+	background:url(/images/frontend_images/menu_border.gif) no-repeat 0 0;
+	padding-top: 5px;
+	padding-right: 12px;
+	padding-bottom: 0;
+	padding-left: 12px;
+}
+#menu li a{color:#fff; text-decoration:none;}
+#menu li a:hover{color:#fff; text-decoration:underline;}
+#menu li a.current{color:#fff; text-decoration:none}
+#menu li.first{background:none; padding:5px 7px 0 14px}
+#menu li.last{background:none; background:url(/images/frontend_images/menu_border.gif) no-repeat 0 2px; padding:5px 0 0 7px}
+
+
+
+#left_container{float:left; width:274px}
+#right_container{float:left; width:618px; background:#f8eddb}
+
+#right_container .heading h1{float:left; width:111px; font:16px/18px "Futura Hv BT", Arial, Helvetica, sans-serif; color:#3b1f11; padding:16px 0 0 29px}
+#right_container .heading h2{float:right; width:443px; font:bold 18px/20px "Adobe Garamond Pro", Arial, Helvetica, sans-serif; color:#fcd35d; background:#e45950; border-left:2px solid #da3e37; border-bottom:2px solid #da3e37; padding:12px 0 9px 33px}
+#right_container .containt{float:left; width:618px; background:url(/images/frontend_images/bg.gif) no-repeat 20px bottom; padding-bottom:27px}
+#right_container .containt h3{float:left; width:589px; font-size:11px; line-height:13px; font-weight:bold; color:#d94e45; padding:33px 0 12px 29px}
+#right_container .containt p{float:left; width:555px; color:#3b1f11; padding:0 0 23px 29px}
+#right_container .containt h4{float:left; width:589px; font:20px/22px "Adobe Caslon Pro", Arial, Helvetica, sans-serif; color:#a1553b; padding:0 0 4px 29px}
+#right_container .containt ul{float:left; width:588px; list-style:none; padding:0 0 0 30px}
+#right_container .containt li{float:left; width:588px; font-size:11px; line-height:13px; font-weight:bold; color:#009999; padding:8px 0 8px 0; list-style:none; background:url(/images/frontend_images/li_border.gif) no-repeat 0 bottom}
+#right_container .containt li.last{background:none; padding:8px 0 25px 0}
+#right_container .containt li img{float:none; width:auto; vertical-align:middle; padding:0 9px 0 9px}
+#right_container .containt li a{color:#d0493f; text-decoration:none}
+#right_container .containt li a{color:#d0493f; text-decoration:underline}
+
+
+
+.recent_add_prifile{float:left; width:598px; background:url(/images/frontend_images/profile_border.gif) no-repeat 20px bottom; padding:0 0 35px 20px}
+.recent_add_prifile h4{float:left; width:569px; font:20px/22px "Adobe Caslon Pro", Arial, Helvetica, sans-serif; color:#a1553b; padding:0 0 4px 29px}
+.recent_add_prifile .profile_box{float:left; width:127px; padding:0 15px 0 0; position:relative }
+.recent_add_prifile .profile_box img.more_1{float:left; width:auto; position:absolute; left:42px; top:240px}
+.recent_add_prifile .profile_box.first{float:left; width:127px; padding:0 15px 0 12px;}
+.recent_add_prifile .profile_box .photo{float:left; width:127px; padding:0 0 12px 0;}
+.recent_add_prifile .profile_box .photo img{float:left; width:auto; border:1px solid #d8c8a7; padding:0 0 0 0;}
+.recent_add_prifile .profile_box .pro_detail{float:left; width:127px}
+.recent_add_prifile .profile_box p.left{float:left; width:53px; padding:0 0 2px 4px; font-weight:bold; color:#de5147}
+.recent_add_prifile .profile_box p.right{float:left; width:70px; padding:0 0 2px 0;font-weight:normal; color:#555555}
+
+
+
+
+.expert_dating_tips{float:left; width:309px; padding-bottom:80px}
+.expert_dating_tips h4{float:left; width:280px; font:20px/22px "Adobe Caslon Pro", Arial, Helvetica, sans-serif; color:#a1553b; padding:36px 0 20px 29px}
+.expert_dating_tips h6{float:left; width:279px; padding:0 0 10px 30px; font-size:10px; line-height:12px; font-weight:bold; color:#d94e45}
+.expert_dating_tips p{float:left; width:264px; padding:0 15px 17px 30px; color:#3b1f11}
+.expert_dating_tips p span{font-weight:bold; padding:0; color:#009999}
+
+
+
+
+
+
+.member_advantages{float:left; width:309px; background:url(/images/frontend_images/left_border.gif) no-repeat 0 25px}
+.member_advantages h4{float:left; width:280px; font:20px/22px "Adobe Caslon Pro", Arial, Helvetica, sans-serif; color:#a1553b; padding:36px 0 20px 20px}
+
+.member_advantages ul{float:left; width:300px; list-style:none; padding:0 0 0 0}
+.member_advantages li{float:left; width:268px; color:#555555; background:url(/images/frontend_images/bullet_1.gif) no-repeat 30px 3px; padding:0 0 7px 40px}
+.member_advantages li a{color:#555555; text-decoration:underline}
+.member_advantages li a:hover{color:#555555; text-decoration:none}
+
+
+
+.partner_search{float:left; width:274px}
+.partner_search h2{float:left; width:258px; height:51px; font:bold 18px/20px "Adobe Garamond Pro", Arial, Helvetica, sans-serif; color:#fcd35d; background:url(/images/frontend_images/form_heading_bg.gif) no-repeat 0 0; padding:10px 0 0 16px}
+.partner_search .form_container{float:left; width:270px; background:#d4a057; border-bottom:4px solid #c98c44; border-right:4px solid #ca8d46; padding:16px 0 0 0}
+.form_container .search_row{float:left; width:270px; padding-bottom:8px}
+.form_container .search_row.last{float:left; width:270px; padding:5px 0 0 0}
+.form_container .search_row .search_column_1{float:left; width:86px; padding:0 0 0 0;}
+.form_container .search_row .search_column_2{float:left; width:184px}
+
+.form_container form{float:left; width:270px;}
+.form_container fieldset{float:left; width:268px; border:none; padding:0 0 27px 0}
+.form_container label{float:left; width:auto; color:#d9d7bc; padding:5px 0 0 23px}
+.form_container label.seeking{float:left; width:auto; color:#d9d7bc; padding:5px 5px 0 6px}
+.form_container label.check{float:left; width:auto; font-size:9px; line-height:11px; color:#fff; padding:4px 7px 0 9px; margin:0}
+.form_container input{float:left; width:90px; font-size:11px; line-height:13px; color:#216588; margin:0; padding:0}
+.form_container input.checkbox{float:left; width:auto; border:none; height:15px; padding:0; margin:2px 0 0 0}
+.form_container input.search_btn{float:left; width:auto; padding:0; margin:0 0 0 0}
+.form_container select{float:left; width:58px; height:19px; font-size:9px}
+.form_container select.gender{float:left; width:82px; margin-top: 5px;}
+.form_container select.date{float:left; width: 82px;  margin-top: 5px;}
+.form_container select.dob{float:left; width:55px; font-size:10px; margin:0 3px 0 0}
+
+
+.dating_news{float:left; width:274px}
+.dating_news h2{float:left; width:255px; height:33px; font:bold 18px/20px "Adobe Garamond Pro", Arial, Helvetica, sans-serif; color:#fcd35d; background:url(/images/frontend_images/dating_news_heading_bg.gif) no-repeat 0 0; padding:13px 0 0 19px}
+
+.dating_news .news_detail{float:left; width:274px; background:url(/images/frontend_images/news_border.gif) no-repeat 14px bottom; padding:0 0 21px 0}
+.dating_news .news_detail p.date{float:left; width:244px; color:#3c3c3c; font-weight:bold; padding:20px 0 14px 29px}
+.dating_news .news_detail p.detail{float:left; width:225px; text-align:justify; color:#cc3433; padding:0 0 15px 26px}
+.dating_news .news_detail p.know_more{float:left; width:257px; text-align:right; color:#926d1b; font-weight:bold; padding:0 17px 0 0}
+.dating_news .news_detail p.know_more a{color:#926d1b; text-decoration:none}
+.dating_news .news_detail p.know_more a:hover{color:#926d1b; text-decoration:underline}
+
+.link_detail p.link{float:left; width:257px; text-align:left; color:#926d1b; font-weight:bold; padding:10px 17px 10px 0; margin-left: 10px;}
+.link_detail p.link a{color:#926d1b; text-decoration:none}
+.link_detail p.link a:hover{color:#926d1b; text-decoration:underline}
+
+.dont_stay{float:left; width:274px; padding:0}
+.dont_stay img{float:left; width:auto; padding:0}
+
+
+
+
+#footer{float:left; width:922px; height:79px; background:url(/images/frontend_images/footer_bg.gif) no-repeat 0 0;}
+
+#footer .footer_link ul{float:left; width:642px; text-align:center; list-style:none; margin:0; padding:30px 0 0 280px}
+#footer .footer_link li{width:auto;	font:bold 11px/13px Georgia, "Times New Roman", Times, serif; color:#b28150;
+	background:url(/images/frontend_images/footer_menu_border.gif) no-repeat 0 2px; padding:8px 6px 10px 10px; display: inline;}
+#footer .footer_link li.first{background:none; padding:8px 6px 0 24px}
+#footer .footer_link li a{color:#b28150; text-decoration:none}
+#footer .footer_link li a:hover{color:#b28150; text-decoration:underline}
+#footer .footer_link li a.current{color:#b28150; text-decoration:underline}
+
+
+
+
+
+/***** inner page css starts *****/
+
+#body_container_inner{float:left; width:944px; background: url(/images/frontend_images/body_container_bg.gif) repeat-y 0 0; padding:20px 0 20px 0}
+#left_container_inner{float:left; width:200px; padding:0 0 0 0}
+#right_container_inner{float:left; width:700px; padding:20px 0 20px 0}
+
+
+
+
+
+
+
+
+
+
+
+
+
+h1{font:24px/26px Georgia, "Times New Roman", Times, serif; color:#221E21; font-style:italic; padding:20px 0 22px 0; margin:0}
+h1 span{color:#221E21}
+h1.inner{font:24px/26px Georgia, "Times New Roman", Times, serif; color:#221E21; font-style:italic; padding:0; margin:0}
+.aboutus-img{float:right; border:4px solid #dcdcda;	margin:0px 0px 10px 20px;}
+h5.inner{font:15px Myriad Pro, Arial, Helvetica, sans-serif; color:#000; font-weight:100; padding:0px 0px 5px 0px;	border-bottom:1px dotted #000;	margin:0px 0px 10px 0px; background:none }
+h6.inner{font:17px Myriad Pro, Arial, Helvetica, sans-serif; color:#000; font-weight:100; padding:0px 0px 5px 0px;	margin:0px 0px 0px 0px; background:none; border:none }
+.aboutcolumnzone{padding:20px 0px 16px 0px;}
+.aboutcolumn1{width:48%; float:left; margin:0px 0px 10px 0px;}
+.aboutcolumn2{width:48%; float:right; margin:0px 0px 10px 0px;}
+.abouticon{float:left; margin:0px 20px 0px 0px;}
+.insidereadmore{padding:10px 0px 10px 0px;}
+.insidereadmore a{color:#5D2D23; font-size:14px; text-decoration:none}
+.insidereadmore a:hover{text-decoration:underline}
+
+a.projects{color:#5D2D23; font-size:14px; text-decoration:underline}
+a:hover.projects{text-decoration:none}
+
+input.button{color:#ffffff;	background:#414141;	font:bold 11px Arial, Helvetica, sans-serif; text-decoration:none; padding:10px 10px; margin:0px 5px 5px 0;	border:1px solid #000;}
+input.button:hover{cursor:pointer; color:#cccccc;}
+.project-img{float:right; margin-left:20px;	border: 6px solid #dcdcda;}
+.whiteheading{font:30px Myriad Pro, Arial; color:#000; font-weight:100;	padding:0px; margin:25px 0px 20px 0px;}
+.ourprojectrow{margin-bottom:20px; border-bottom:1px dotted #000; padding-bottom:10px;}
+.servicecolumnzone{padding:20px 0px 16px 0px;}
+.servicecolumn1{width:48%; float:left; margin:0px 0px 10px 0px;}
+.servicecolumn2{width:48%; float:right;	margin:0px 0px 10px 0px;}
+.blog-posted-row{padding:3px;}
+
+.blog-posted-row a{color:#5D2D23; font-size:14px; text-decoration:underline; padding:0 0 0 8px}
+.blog-posted-row a:hover{text-decoration:none}
+
+.error{ color:#870000; margin-left:3px; }
+
+
+/* CSS for jQuery Password Checker */
+#signupForm {
+    margin:10px;
+}
+label {
+    font-family:verdana;
+    font-size:10px;
+}
+input {
+    padding:2px;
+    color:gray;
+}
+#passstrength {
+    color:red;
+    font-family:verdana;
+    font-size:10px;
+    font-weight:bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
