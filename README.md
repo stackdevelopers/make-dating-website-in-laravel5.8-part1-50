@@ -1,0 +1,10 @@
+# make-dating-website-in-laravel5.8-part1-50
+Make Dating / Social Networking Website in Laravel 5.6 / 5.7 / 5.8 (Part 1 - 50)
+
+Run Dating/Social Networking Website in Laravel 5.8 Offline (Part 1 -50)
+
+Follow below video to Download and Run Dating/Social Networking Website in Laravel 5.7 / 5.8 Offline (Part 1 - 50)
+https://youtu.be/DciZbVPt3II
+
+Laravel Dating / Social Networking Website Video Tutorial :-https://www.youtube.com/playlist?list=PLLUtELdNs2ZZrPUnxjlomErJfNvkyS6Hf
+
