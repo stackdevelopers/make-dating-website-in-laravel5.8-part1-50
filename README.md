@@ -8,6 +8,9 @@ https://youtu.be/DciZbVPt3II
 
 Laravel Dating / Social Networking Website Video Tutorial :-https://www.youtube.com/playlist?list=PLLUtELdNs2ZZrPUnxjlomErJfNvkyS6Hf
 
-Make E-commerce Website in Laravel 6 / Laravel 7 (Including LTE Admin Panel) :-
+Make E-commerce Website in Laravel 6 / Laravel 7 / Laravel 8 (Including LTE Admin Panel) :-
 https://www.youtube.com/playlist?list=PLLUtELdNs2ZaHaFmydqjcQ-YyeQ19Cd6u
+
+Please join Stack Developers Youtube Channel to get complete Laravel Dating website with Chat along with Database :- 
+https://www.youtube.com/channel/UCExO2i-tLU1NyVZD6zOJQlw/join
 
